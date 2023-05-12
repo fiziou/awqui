@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <AWQUI>Mon Site Web</AWQUI>
+  </head>
+   <h1>Mon Site Web</h1>
+
+   <nav>
+     <ul>
+       <li><a href="#">Accueil</a></li>
+       <li><a href="#">A propos</a></li>
+       <li><a href="#">Services</a></li>
+       <li><a href="#">Contact</a></li>
+      </ul>
+     </nav>
+
+     <h2>Bienvenue sur mon site web !</h2>
+
+     <p>Page one.</p>
+
+     </body>
+     </html>
